@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+ffe9f5058cbf394a13125369ccbc0cdf CMakeFiles/MarioProject_automoc

@@ -1,0 +1,4 @@
+/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/CMakeFiles/MarioProject.dir
+/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/CMakeFiles/MarioProject_automoc.dir

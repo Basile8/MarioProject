@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MarioProject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MarioProject">
+				<Option output="/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/MarioProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtWidgets"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtGui"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 MarioProject"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MarioProject/fast">
+				<Option output="/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/MarioProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtWidgets"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtGui"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 MarioProject/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MarioProject_automoc">
+				<Option working_dir="/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 MarioProject_automoc"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/cmake-build-debug/MarioProject_automoc.cpp">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/Character.cpp">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/Character.h">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/Clock.cpp">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/Clock.h">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/Finish.cpp">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/Finish.h">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/Lever.cpp">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/Lever.h">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/MainScene.cpp">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/MainScene.h">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/MainWindow.cpp">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/MainWindow.h">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/Personnage.cpp">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/Plateforme.cpp">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/Plateforme.h">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/WelcomeWindow.cpp">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/WelcomeWindow.h">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/endWindow.cpp">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/endWindow.h">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/main.cpp">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/src/scoreboard.txt">
+			<Option target="MarioProject"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Basile/CLionProjects/MarioProject/../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
